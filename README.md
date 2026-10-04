@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Shekhar 👋
 
-<!--
-**Shekharkumar-cse/Shekharkumar-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Aspiring Software Engineer  
+📍 India
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- Data Structures & Algorithms
+- Git & GitHub
+- Software Development
+
+## 🎯 Current Goals
+
+- Strengthen my problem-solving and DSA skills
+- Build meaningful software projects
+- Learn real-world software development
+- Land my first software engineering internship
+
+## 🛠️ Skills
+
+**Languages:** C++, C, Python  
+**Currently Exploring:** Git, GitHub & Software Development
+
+## 📈 My Journey
+
+Currently building my foundations in computer science, DSA and software development.
+More projects coming as I learn and build. 🚀
